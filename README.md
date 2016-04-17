@@ -32,5 +32,5 @@ Output:
 
 Options:
 
-- padding-from: The space at the beginning of a column.
-- padding-to: The space at the end of a column.
+- `padding-from`: The space at the beginning of a column.
+- `padding-to`: The space at the end of a column.
